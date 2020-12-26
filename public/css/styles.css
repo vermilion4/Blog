@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+    color: white;
+}
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -10,9 +14,10 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #1abc9c;
 }
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: black !important;
 }
 
 .footer-padding {
